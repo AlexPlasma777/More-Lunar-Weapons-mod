@@ -1,0 +1,5 @@
+This mod adds more lunar weapons and two are currently added
+Currently added:
+[c/f4c122:Solar Fury]: Melee, Shoots rapid Fire Bolts and 250 base dmg
+
+[c/1dd0b9:Vortex Blaster]: Different than vortex beater, shoots Rocket IVs (No, Not other types although they can be used) and 190 base dmg
